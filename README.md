@@ -38,7 +38,7 @@ Aplicação desenvolvida em React durante o NLW Journey, promovido pela Rocketse
 
 <p align="center"> 
  
-  <img alt="nlw-expert" src="https://github.com/MartinsPereira/NLW-Expert-React/assets/58631294/b96d01b4-e7bf-4e82-b003-c69c62c60c11" width="100%">
+  <img alt="nlw-expert" src="https://github.com/user-attachments/assets/55332419-0959-4646-85c5-64171aa4db63" width="100%">
 </p>
 
 ## 📦 Instalação
